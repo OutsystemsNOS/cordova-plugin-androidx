@@ -1,3 +1,5 @@
+<b>NOS</b>: Dependency of [cordova-plugin-firebase-messaging-os](https://github.com/OutsystemsNOS/cordova-plugin-firebase-messaging-os)</br></br>
+
 cordova-plugin-androidx
 =======================
 
